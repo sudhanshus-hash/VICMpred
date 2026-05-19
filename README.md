@@ -14,7 +14,7 @@ Saha, S., and Raghava, G. P. S. VICMpred: An SVM-based method for the prediction
 
 https://doi.org/10.1016/S1672-0229(06)60015-6
 
-The dataset can be also found on Zenodo
+The dataset can be also found on Zenodo https://doi.org/10.5281/zenodo.20281963
 
 
 
